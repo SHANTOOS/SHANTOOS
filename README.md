@@ -1,4 +1,4 @@
-# ✔ Hi there 👋, Hi, I am SHANTOOS
+# ✔Hi, I am SHANTOOS
 ## Ethical Hacker
 0/code-1839406_1280.jpg)
 
