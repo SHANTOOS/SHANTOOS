@@ -1,3 +1,4 @@
+<img src=Github .png>
 # ✔Hi, I am SHANTOOS
 ## Ethical Hacker
 0/code-1839406_1280.jpg)
@@ -6,7 +7,7 @@ Welcome to my GitHub! I'm SHANTOOS, an Ethical Hacker passionate about securing 
 
 ✔✔ Skills: PYTHON / HTML/CSS/JAVASCRIPT
 
-- 🔭 I’m currently working on Python Ip Tracking Tool 
+- 🔭 I’m currently working on the Python IP Tracking Tool 
 - 🌱 I’m currently learning JAVASCRIPT 
 - 💬 Ask me about Ethical Hacking 
 
