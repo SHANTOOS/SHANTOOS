@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm SHANTOOS, an Ethical Hacker passionate about securing 
 
 ✔✔ Skills: PYTHON / HTML/CSS/JAVASCRIPT
 
-- 🔭 I’m currently working on the Python IP Tracking Tool 
+- 🔭 I’m currently working on the Python Tool
 - 🌱 I’m currently learning JAVASCRIPT 
 - 💬 Ask me about Ethical Hacking 
 
