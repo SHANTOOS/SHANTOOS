@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm SHANTOOS, an Ethical Hacker passionate about securing digital ecosystems and promoting cybersecurity awareness. With a background in ethical hacking, I specialize in identifying vulnerabilities, conducting penetration tests, and developing robust security solutions. Through my contributions here, I aim to share insights, tools, and resources to empower others in safeguarding their digital assets. Join me in the mission to make the online world a safer place, one line of code at a time.
 
-✔✔ Skills: PYTHON / HTML/CSS/JAVASCRIPT
+✔ Skills: `PYTHON` , `HTML` , `CSS` , `JAVASCRIPT`
 
 - 🔭 I’m currently working on the Python Tool
 - 🌱 I’m currently learning JAVASCRIPT 
